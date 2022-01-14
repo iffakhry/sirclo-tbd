@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("hello commit 1")
 	fmt.Println("hello commit 2")
 	fmt.Println("hello commit 3")
+	fmt.Println("hello from feature-rebase")
 }
