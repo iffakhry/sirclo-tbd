@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("hello from feature pr")
 	fmt.Println("hello commit 1")
 	fmt.Println("hello commit 2")
+	fmt.Println("hello commit 3")
 }
